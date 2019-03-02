@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:text=" Hello Bro !!! \n Happy to see you here \n I hope the same response from you.... \n
+Now, Dont waste your time by seeing this beauty of this app \n
+Just go to your widgets list and check .. the beauty is there... \n Why are you still here ...? \n Go quick . . .  \n
+See you there. . . .\n you can use this as you like ... No restrictions"/>
+
+</LinearLayout>
